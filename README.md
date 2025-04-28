@@ -7,11 +7,11 @@ This repository provides public releases of Ant Group's production serverless Fa
 
 These files include every cold start recorded in our public cloud.
 
-**Duration:** 1-day temporary.
+**Duration:** 1-day period (complete data will be accessible prior to the conference).
 
 | Metric/link | Description |
 |-------------|-------------|
-| [20250420.csv](https://mdn.alipayobjects.com/rms_9e20d4/uri/file/as/20250420-upload.csv)          | 1-day temporary         |
+| [20250420.csv](https://mdn.alipayobjects.com/rms_9e20d4/uri/file/as/20250420.csv)          | 1-day period         |
 
 **Schema**
 
